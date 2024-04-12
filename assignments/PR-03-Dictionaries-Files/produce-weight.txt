@@ -1,0 +1,4 @@
+grapes,2.5
+apples,1.2
+kiwi,1.1
+bananas,2.0
