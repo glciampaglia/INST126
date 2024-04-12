@@ -1,0 +1,15 @@
+id: INST101
+title: Bits and Bytes of Computer and Information Sciences 
+section: 0101
+instructor: Madeline Georgevich 
+---
+id: INST104
+title: Design Across Campus 
+section: 0101
+instructor: Katie Shilton
+---
+id: INST123
+title: Databases for All 
+section: 0102
+instructor: Pamela Duffy, Vedat Diker
+---
