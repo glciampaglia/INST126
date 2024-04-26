@@ -1,0 +1,536 @@
+Category,Occupation,All_workers,All_weekly,M_workers,M_weekly,F_workers,F_weekly
+MANAGEMENT,Chief executives,1046,2041.0,763,1103.0,283,479.0
+MANAGEMENT,General and operations managers,823,1260.0,621,424.0,202,393.0
+MANAGEMENT,Legislators,8,,5,,4,
+MANAGEMENT,Advertising and promotions managers,55,1050.0,29,,26,
+MANAGEMENT,Marketing and sales managers,948,1462.0,570,483.0,378,410.0
+MANAGEMENT,Public relations and fundraising managers,59,1557.0,24,,35,
+MANAGEMENT,Administrative services managers,170,1191.0,96,1576.0,73,1244.0
+MANAGEMENT,Computer and information systems managers,636,1728.0,466,2005.0,169,815.0
+MANAGEMENT,Financial managers,1124,1408.0,551,556.0,573,548.0
+MANAGEMENT,Compensation and benefits managers,23,,7,,16,
+MANAGEMENT,Human resources managers,254,1365.0,68,1353.0,186,855.0
+MANAGEMENT,Training and development managers,37,,17,,20,
+MANAGEMENT,Industrial production managers,267,1485.0,221,1359.0,45,
+MANAGEMENT,Purchasing managers,193,1348.0,109,583.0,84,406.0
+MANAGEMENT,"Transportation, storage, and distribution managers",276,966.0,224,1566.0,52,551.0
+MANAGEMENT,"Farmers, ranchers, and other agricultural managers",129,769.0,106,439.0,23,
+MANAGEMENT,Construction managers,471,1329.0,429,914.0,42,
+MANAGEMENT,Education administrators,778,1423.0,282,1465.0,496,1286.0
+MANAGEMENT,Architectural and engineering managers,110,1899.0,101,1929.0,10,
+MANAGEMENT,Food service managers,763,742.0,389,737.0,374,623.0
+MANAGEMENT,Funeral service managers,13,,10,,2,
+MANAGEMENT,Gaming managers,19,,13,,6,
+MANAGEMENT,Lodging managers,123,985.0,54,1461.0,68,906.0
+MANAGEMENT,Medical and health services managers,592,1210.0,154,506.0,438,464.0
+MANAGEMENT,Natural sciences managers,24,,11,,13,
+MANAGEMENT,Postmasters and mail superintendents,20,,10,,10,
+MANAGEMENT,"Property, real estate, and community association managers",401,914.0,171,1745.0,230,696.0
+MANAGEMENT,Social and community service managers,305,1022.0,105,1286.0,200,939.0
+MANAGEMENT,Emergency management directors,9,,6,,3,
+MANAGEMENT,"Managers, all other",2803,1408.0,1717,1858.0,1085,982.0
+BUSINESS,"Agents and business managers of artists, performers, and athletes",27,,13,,14,
+BUSINESS,"Buyers and purchasing agents, farm products",11,,9,,2,
+BUSINESS,"Wholesale and retail buyers, except farm products",142,926.0,73,870.0,69,771.0
+BUSINESS,"Purchasing agents, except wholesale, retail, and farm products",260,1009.0,136,716.0,124,530.0
+BUSINESS,"Claims adjusters, appraisers, examiners, and investigators",317,963.0,141,2040.0,176,1604.0
+BUSINESS,Compliance officers,235,1198.0,126,2042.0,109,1492.0
+BUSINESS,Cost estimators,95,1232.0,83,1085.0,12,
+BUSINESS,Human resources workers,592,1002.0,151,795.0,441,607.0
+BUSINESS,"Compensation, benefits, and job analysis specialists",63,998.0,12,,50,898.0
+BUSINESS,Training and development specialists,107,990.0,42,,65,1037.0
+BUSINESS,Logisticians,111,1028.0,66,485.0,44,
+BUSINESS,Management analysts,529,1431.0,291,793.0,237,592.0
+BUSINESS,"Meeting, convention, and event planners",117,859.0,27,,90,840.0
+BUSINESS,Fundraisers,62,1136.0,14,,48,
+BUSINESS,Market research analysts and marketing specialists,203,1284.0,85,2076.0,118,598.0
+BUSINESS,"Business operations specialists, all other",186,1090.0,74,450.0,112,449.0
+BUSINESS,Accountants and auditors,1464,1132.0,618,1529.0,846,459.0
+BUSINESS,Appraisers and assessors of real estate,42,,21,,21,
+BUSINESS,Budget analysts,44,,17,,28,
+BUSINESS,Credit analysts,17,,8,,9,
+BUSINESS,Financial analysts,295,1426.0,168,593.0,127,456.0
+BUSINESS,Personal financial advisors,407,1419.0,248,2083.0,159,392.0
+BUSINESS,Insurance underwriters,106,1149.0,44,,63,956.0
+BUSINESS,Financial examiners,17,,9,,8,
+BUSINESS,Credit counselors and loan officers,313,997.0,146,2215.0,166,477.0
+BUSINESS,"Tax examiners and collectors, and revenue agents",59,1051.0,20,,39,
+BUSINESS,Tax preparers,56,892.0,19,,37,
+BUSINESS,"Financial specialists, all other",66,1162.0,25,,40,
+COMPUTATIONAL,Computer and information research scientists,28,,23,,5,
+COMPUTATIONAL,Computer systems analysts,499,1389.0,325,627.0,173,395.0
+COMPUTATIONAL,Information security analysts,67,1538.0,56,705.0,11,
+COMPUTATIONAL,Computer programmers,450,1438.0,357,2250.0,93,863.0
+COMPUTATIONAL,"Software developers, applications and systems software",1287,1682.0,1054,1402.0,232,1190.0
+COMPUTATIONAL,Web developers,151,1165.0,98,722.0,53,426.0
+COMPUTATIONAL,Computer support specialists,396,1079.0,291,1696.0,105,740.0
+COMPUTATIONAL,Database administrators,90,1536.0,58,1284.0,32,
+COMPUTATIONAL,Network and computer systems administrators,208,1242.0,179,1132.0,28,
+COMPUTATIONAL,Computer network architects,115,1552.0,100,499.0,15,
+COMPUTATIONAL,"Computer occupations, all other",490,1227.0,374,1919.0,116,564.0
+COMPUTATIONAL,Actuaries,24,,18,,6,
+COMPUTATIONAL,Mathematicians,6,,6,,0,
+COMPUTATIONAL,Operations research analysts,122,1441.0,59,1836.0,63,1245.0
+COMPUTATIONAL,Statisticians,76,1275.0,37,,39,
+COMPUTATIONAL,Miscellaneous mathematical science occupations,1,,1,,0,
+ENGINEERING,"Architects, except naval",138,1441.0,106,887.0,31,
+ENGINEERING,"Surveyors, cartographers, and photogrammetrists",29,,23,,6,
+ENGINEERING,Aerospace engineers,140,1662.0,122,1917.0,18,
+ENGINEERING,Agricultural engineers,5,,5,,0,
+ENGINEERING,Biomedical engineers,12,,10,,2,
+ENGINEERING,Chemical engineers,79,1532.0,69,1446.0,10,
+ENGINEERING,Civil engineers,316,1460.0,275,2104.0,41,
+ENGINEERING,Computer hardware engineers,72,1876.0,62,1136.0,10,
+ENGINEERING,Electrical and electronics engineers,283,1778.0,246,822.0,37,
+ENGINEERING,Environmental engineers,35,,26,,9,
+ENGINEERING,"Industrial engineers, including health and safety",205,1447.0,168,1593.0,37,
+ENGINEERING,Marine engineers and naval architects,9,,9,,0,
+ENGINEERING,Materials engineers,36,,33,,4,
+ENGINEERING,Mechanical engineers,316,1534.0,294,1664.0,23,
+ENGINEERING,"Mining and geological engineers, including mining safety engineers",15,,15,,0,
+ENGINEERING,Nuclear engineers,5,,3,,2,
+ENGINEERING,Petroleum engineers,43,,39,,3,
+ENGINEERING,"Engineers, all other",393,1527.0,339,1187.0,54,789.0
+ENGINEERING,Drafters,114,977.0,91,2152.0,23,
+ENGINEERING,"Engineering technicians, except drafters",352,963.0,284,1364.0,68,508.0
+ENGINEERING,Surveying and mapping technicians,58,1012.0,54,644.0,4,
+SCIENCE,Agricultural and food scientists,22,,12,,10,
+SCIENCE,Biological scientists,74,1233.0,46,,28,
+SCIENCE,Conservation scientists and foresters,23,,16,,7,
+SCIENCE,Medical scientists,151,1250.0,68,943.0,84,524.0
+SCIENCE,"Life scientists, all other",1,,1,,0,
+SCIENCE,Astronomers and physicists,14,,11,,3,
+SCIENCE,Atmospheric and space scientists,8,,8,,1,
+SCIENCE,Chemists and materials scientists,93,1432.0,61,1613.0,33,
+SCIENCE,Environmental scientists and geoscientists,90,1423.0,65,2247.0,25,
+SCIENCE,"Physical scientists, all other",189,1553.0,121,1307.0,68,500.0
+SCIENCE,Economists,29,,17,,12,
+SCIENCE,Survey researchers,0,,0,,0,
+SCIENCE,Psychologists,114,1367.0,31,,83,1189.0
+SCIENCE,Sociologists,0,,0,,0,
+SCIENCE,Urban and regional planners,22,,13,,9,
+SCIENCE,Miscellaneous social scientists and related workers,37,,19,,19,
+SCIENCE,Agricultural and food science technicians,28,,21,,7,
+SCIENCE,Biological technicians,20,,10,,10,
+SCIENCE,Chemical technicians,75,944.0,43,,32,
+SCIENCE,Geological and petroleum technicians,22,,18,,4,
+SCIENCE,Nuclear technicians,2,,2,,0,
+SCIENCE,Social science research assistants,3,,0,,3,
+SCIENCE,"Miscellaneous life, physical, and social science technicians",157,846.0,79,978.0,78,743.0
+SOCIAL SERVICE,Counselors,635,904.0,184,1292.0,451,901.0
+SOCIAL SERVICE,Social workers,677,877.0,127,1388.0,549,1347.0
+SOCIAL SERVICE,Probation officers and correctional treatment specialists,85,967.0,42,,43,
+SOCIAL SERVICE,Social and human service assistants,173,676.0,23,,149,673.0
+SOCIAL SERVICE,"Miscellaneous community and social service specialists, including health educators and community health workers",92,831.0,29,,63,728.0
+SOCIAL SERVICE,Clergy,376,1002.0,316,618.0,60,543.0
+SOCIAL SERVICE,"Directors, religious activities and education",62,929.0,31,,31,
+SOCIAL SERVICE,"Religious workers, all other",44,,23,,21,
+LEGAL,Lawyers,803,1886.0,503,1311.0,300,694.0
+LEGAL,Judicial law clerks,11,,1,,10,
+LEGAL,"Judges, magistrates, and other judicial workers",54,1952.0,33,,20,
+LEGAL,Paralegals and legal assistants,341,927.0,47,,294,910.0
+LEGAL,Miscellaneous legal support workers,136,770.0,40,,97,746.0
+EDUCATION,Postsecondary teachers,917,1258.0,516,1348.0,401,720.0
+EDUCATION,Preschool and kindergarten teachers,517,616.0,11,,506,618.0
+EDUCATION,Elementary and middle school teachers,2806,974.0,543,957.0,2262,946.0
+EDUCATION,Secondary school teachers,1048,1066.0,438,2114.0,610,1135.0
+EDUCATION,Special education teachers,297,987.0,38,,258,990.0
+EDUCATION,Other teachers and instructors,378,896.0,179,1273.0,199,1270.0
+EDUCATION,"Archivists, curators, and museum technicians",38,,18,,20,
+EDUCATION,Librarians,130,991.0,27,,102,966.0
+EDUCATION,Library technicians,18,,4,,15,
+EDUCATION,Teacher assistants,614,541.0,48,,565,530.0
+EDUCATION,"Other education, training, and library workers",123,1001.0,28,,95,1031.0
+ARTS,Artists and related workers,58,1166.0,39,,20,
+ARTS,Designers,593,993.0,301,1796.0,291,468.0
+ARTS,Actors,12,,8,,4,
+ARTS,Producers and directors,120,1270.0,67,1296.0,53,647.0
+ARTS,"Athletes, coaches, umpires, and related workers",147,780.0,108,1780.0,39,
+ARTS,Dancers and choreographers,11,,2,,9,
+ARTS,"Musicians, singers, and related workers",42,,33,,9,
+ARTS,"Entertainers and performers, sports and related workers, all other",14,,11,,3,
+ARTS,Announcers,25,,21,,5,
+ARTS,"News analysts, reporters and correspondents",56,1218.0,29,,27,
+ARTS,Public relations specialists,120,1211.0,49,,71,971.0
+ARTS,Editors,108,1148.0,58,1235.0,50,676.0
+ARTS,Technical writers,52,1158.0,22,,30,
+ARTS,Writers and authors,79,1232.0,36,,42,
+ARTS,Miscellaneous media and communication workers,46,,16,,30,
+ARTS,Broadcast and sound engineering technicians and radio operators,83,954.0,77,1263.0,7,
+ARTS,Photographers,45,,24,,21,
+ARTS,"Television, video, and motion picture camera operators and editors",30,,28,,1,
+ARTS,"Media and communication equipment workers, all other",2,,2,,0,
+HEALTHCARE PROFESSIONAL,Chiropractors,22,,15,,7,
+HEALTHCARE PROFESSIONAL,Dentists,59,1656.0,39,,20,
+HEALTHCARE PROFESSIONAL,Dietitians and nutritionists,79,886.0,9,,69,879.0
+HEALTHCARE PROFESSIONAL,Optometrists,19,,6,,13,
+HEALTHCARE PROFESSIONAL,Pharmacists,206,1920.0,98,2237.0,108,1012.0
+HEALTHCARE PROFESSIONAL,Physicians and surgeons,740,1824.0,457,861.0,283,527.0
+HEALTHCARE PROFESSIONAL,Physician assistants,57,1368.0,17,,40,
+HEALTHCARE PROFESSIONAL,Podiatrists,9,,5,,4,
+HEALTHCARE PROFESSIONAL,Audiologists,8,,1,,6,
+HEALTHCARE PROFESSIONAL,Occupational therapists,74,1210.0,10,,64,1199.0
+HEALTHCARE PROFESSIONAL,Physical therapists,178,1265.0,56,1068.0,123,736.0
+HEALTHCARE PROFESSIONAL,Radiation therapists,12,,5,,7,
+HEALTHCARE PROFESSIONAL,Recreational therapists,6,,2,,4,
+HEALTHCARE PROFESSIONAL,Respiratory therapists,99,1000.0,32,,67,937.0
+HEALTHCARE PROFESSIONAL,Speech-language pathologists,108,1147.0,1,,106,1148.0
+HEALTHCARE PROFESSIONAL,Exercise physiologists,3,,3,,0,
+HEALTHCARE PROFESSIONAL,"Therapists, all other",132,944.0,31,,101,951.0
+HEALTHCARE PROFESSIONAL,Veterinarians,55,1455.0,16,,39,
+HEALTHCARE PROFESSIONAL,Registered nurses,2382,1116.0,278,1549.0,2104,975.0
+HEALTHCARE PROFESSIONAL,Nurse anesthetists,23,,11,,12,
+HEALTHCARE PROFESSIONAL,Nurse midwives,6,,0,,6,
+HEALTHCARE PROFESSIONAL,Nurse practitioners,115,1532.0,11,,103,1522.0
+HEALTHCARE PROFESSIONAL,"Health diagnosing and treating practitioners, all other",2,,0,,2,
+HEALTHCARE PROFESSIONAL,Clinical laboratory technologists and technicians,270,901.0,69,751.0,201,618.0
+HEALTHCARE PROFESSIONAL,Dental hygienists,86,914.0,6,,80,953.0
+HEALTHCARE PROFESSIONAL,Diagnostic related technologists and technicians,253,964.0,76,1952.0,177,1340.0
+HEALTHCARE PROFESSIONAL,Emergency medical technicians and paramedics,175,811.0,126,885.0,49,
+HEALTHCARE PROFESSIONAL,Health practitioner support technologists and technicians,487,636.0,99,699.0,389,478.0
+HEALTHCARE PROFESSIONAL,Licensed practical and licensed vocational nurses,508,743.0,48,,459,737.0
+HEALTHCARE PROFESSIONAL,Medical records and health information technicians,174,740.0,17,,157,723.0
+HEALTHCARE PROFESSIONAL,"Opticians, dispensing",44,,21,,23,
+HEALTHCARE PROFESSIONAL,Miscellaneous health technologists and technicians,99,671.0,32,,66,642.0
+HEALTHCARE PROFESSIONAL,Other healthcare practitioners and technical occupations,78,1128.0,40,,38,
+HEALTHCARE SUPPORT,"Nursing, psychiatric, and home health aides",1400,467.0,163,2069.0,1237,548.0
+HEALTHCARE SUPPORT,Occupational therapy assistants and aides,17,,4,,12,
+HEALTHCARE SUPPORT,Physical therapist assistants and aides,53,742.0,18,,35,
+HEALTHCARE SUPPORT,Massage therapists,37,,16,,22,
+HEALTHCARE SUPPORT,Dental assistants,188,531.0,14,,175,522.0
+HEALTHCARE SUPPORT,Medical assistants,422,539.0,35,,387,530.0
+HEALTHCARE SUPPORT,Medical transcriptionists,28,,3,,26,
+HEALTHCARE SUPPORT,Pharmacy aides,22,,4,,18,
+HEALTHCARE SUPPORT,Veterinary assistants and laboratory animal caretakers,21,,4,,17,
+HEALTHCARE SUPPORT,Phlebotomists,91,551.0,15,,76,534.0
+HEALTHCARE SUPPORT,"Miscellaneous healthcare support occupations, including medical equipment preparers",115,524.0,44,,71,511.0
+PROTECTIVE SERVICE,First-line supervisors of correctional officers,57,856.0,41,,16,
+PROTECTIVE SERVICE,First-line supervisors of police and detectives,114,1427.0,97,1432.0,17,
+PROTECTIVE SERVICE,First-line supervisors of fire fighting and prevention workers,42,,39,,3,
+PROTECTIVE SERVICE,"First-line supervisors of protective service workers, all other",72,808.0,56,1747.0,16,
+PROTECTIVE SERVICE,Firefighters,260,1033.0,245,1109.0,16,
+PROTECTIVE SERVICE,Fire inspectors,18,,15,,3,
+PROTECTIVE SERVICE,"Bailiffs, correctional officers, and jailers",453,754.0,341,1609.0,112,1601.0
+PROTECTIVE SERVICE,Detectives and criminal investigators,141,1159.0,100,1819.0,41,
+PROTECTIVE SERVICE,Fish and game wardens,6,,5,,1,
+PROTECTIVE SERVICE,Parking enforcement workers,9,,6,,3,
+PROTECTIVE SERVICE,Police and sheriff's patrol officers,655,1002.0,569,1051.0,86,618.0
+PROTECTIVE SERVICE,Transit and railroad police,3,,3,,0,
+PROTECTIVE SERVICE,Animal control workers,4,,2,,2,
+PROTECTIVE SERVICE,Private detectives and investigators,85,843.0,49,,36,
+PROTECTIVE SERVICE,Security guards and gaming surveillance officers,708,567.0,555,1322.0,153,1207.0
+PROTECTIVE SERVICE,Crossing guards,26,,13,,13,
+PROTECTIVE SERVICE,Transportation security screeners,33,,22,,11,
+PROTECTIVE SERVICE,"Lifeguards and other recreational, and all other protective service workers",42,,24,,18,
+CULINARY,Chefs and head cooks,340,619.0,285,1332.0,55,634.0
+CULINARY,First-line supervisors of food preparation and serving workers,378,498.0,156,1382.0,222,1257.0
+CULINARY,Cooks,1302,416.0,808,1918.0,494,383.0
+CULINARY,Food preparation workers,366,402.0,174,638.0,192,631.0
+CULINARY,Bartenders,252,521.0,110,478.0,142,478.0
+CULINARY,"Combined food preparation and serving workers, including fast food",173,391.0,67,571.0,107,395.0
+CULINARY,"Counter attendants, cafeteria, food concession, and coffee shop",56,354.0,28,,28,
+CULINARY,Waiters and waitresses,868,451.0,305,1852.0,563,498.0
+CULINARY,"Food servers, nonrestaurant",93,509.0,31,,62,485.0
+CULINARY,Dining room and cafeteria attendants and bartender helpers,107,403.0,59,1600.0,48,
+CULINARY,Dishwashers,117,398.0,98,1025.0,19,
+CULINARY,"Hosts and hostesses, restaurant, lounge, and coffee shop",66,400.0,8,,58,397.0
+CULINARY,"Food preparation and serving related workers, all other",6,,4,,3,
+GROUNDSKEEPING,First-line supervisors of housekeeping and janitorial workers,172,620.0,108,1440.0,64,824.0
+GROUNDSKEEPING,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",80,649.0,79,1112.0,1,
+GROUNDSKEEPING,Janitors and building cleaners,1536,507.0,1111,1734.0,425,640.0
+GROUNDSKEEPING,Maids and housekeeping cleaners,876,416.0,134,2132.0,742,1704.0
+GROUNDSKEEPING,Pest control workers,77,585.0,74,1657.0,3,
+GROUNDSKEEPING,Grounds maintenance workers,862,469.0,824,614.0,39,
+SERVICE,First-line supervisors of gaming workers,117,769.0,65,1844.0,52,1547.0
+SERVICE,First-line supervisors of personal service workers,60,608.0,25,,35,
+SERVICE,Animal trainers,26,,19,,8,
+SERVICE,Nonfarm animal caretakers,100,505.0,32,,68,501.0
+SERVICE,Gaming services workers,69,676.0,30,,39,
+SERVICE,Motion picture projectionists,3,,3,,0,
+SERVICE,"Ushers, lobby attendants, and ticket takers",9,,5,,4,
+SERVICE,Miscellaneous entertainment attendants and related workers,69,485.0,42,,28,
+SERVICE,Embalmers and funeral attendants,2,,2,,0,
+SERVICE,"Morticians, undertakers, and funeral directors",23,,17,,7,
+SERVICE,Barbers,46,,33,,12,
+SERVICE,"Hairdressers, hairstylists, and cosmetologists",253,461.0,23,,229,463.0
+SERVICE,Miscellaneous personal appearance workers,191,501.0,32,,159,497.0
+SERVICE,"Baggage porters, bellhops, and concierges",75,608.0,63,1669.0,12,
+SERVICE,Tour and travel guides,21,,11,,9,
+SERVICE,Childcare workers,407,437.0,14,,393,430.0
+SERVICE,Personal care aides,680,462.0,128,553.0,552,395.0
+SERVICE,Recreation and fitness workers,185,555.0,78,491.0,107,382.0
+SERVICE,Residential advisors,24,,8,,16,
+SERVICE,"Personal care and service workers, all other",67,499.0,35,,32,
+SALES,First-line supervisors of retail sales workers,2326,711.0,1296,1128.0,1030,775.0
+SALES,First-line supervisors of non-retail sales workers,835,1028.0,556,1368.0,280,1024.0
+SALES,Cashiers,1342,415.0,411,646.0,931,447.0
+SALES,Counter and rental clerks,73,594.0,35,,37,
+SALES,Parts salespersons,92,601.0,82,1254.0,11,
+SALES,Retail salespersons,1918,590.0,1159,1720.0,759,528.0
+SALES,Advertising sales agents,161,925.0,78,707.0,83,445.0
+SALES,Insurance sales agents,427,815.0,194,1735.0,232,1709.0
+SALES,"Securities, commodities, and financial services sales agents",211,1155.0,146,1797.0,65,1313.0
+SALES,Travel agents,62,711.0,9,,53,685.0
+SALES,"Sales representatives, services, all other",406,966.0,268,755.0,139,647.0
+SALES,"Sales representatives, wholesale and manufacturing",1138,1020.0,843,1386.0,295,1209.0
+SALES,"Models, demonstrators, and product promoters",15,,4,,11,
+SALES,Real estate brokers and sales agents,463,837.0,197,933.0,266,658.0
+SALES,Sales engineers,33,,31,,2,
+SALES,Telemarketers,39,,17,,21,
+SALES,"Door-to-door sales workers, news and street vendors, and related workers",28,,9,,18,
+SALES,"Sales and related workers, all other",158,916.0,89,935.0,70,834.0
+OFFICE,First-line supervisors of office and administrative support workers,1297,812.0,434,417.0,863,415.0
+OFFICE,"Switchboard operators, including answering service",17,,7,,10,
+OFFICE,Telephone operators,22,,4,,18,
+OFFICE,"Communications equipment operators, all other",5,,2,,3,
+OFFICE,Bill and account collectors,152,657.0,54,1177.0,98,908.0
+OFFICE,Billing and posting clerks,406,657.0,39,,366,664.0
+OFFICE,"Bookkeeping, accounting, and auditing clerks",769,692.0,87,1144.0,682,846.0
+OFFICE,Gaming cage workers,11,,2,,10,
+OFFICE,Payroll and timekeeping clerks,128,757.0,17,,111,751.0
+OFFICE,Procurement clerks,35,,15,,21,
+OFFICE,Tellers,264,514.0,33,,231,516.0
+OFFICE,"Financial clerks, all other",61,767.0,30,,32,
+OFFICE,Brokerage clerks,3,,1,,1,
+OFFICE,Correspondence clerks,3,,1,,2,
+OFFICE,"Court, municipal, and license clerks",60,755.0,9,,51,743.0
+OFFICE,"Credit authorizers, checkers, and clerks",42,,12,,29,
+OFFICE,Customer service representatives,1760,621.0,611,856.0,1149,760.0
+OFFICE,"Eligibility interviewers, government programs",67,781.0,17,,50,805.0
+OFFICE,File clerks,145,634.0,25,,120,627.0
+OFFICE,"Hotel, motel, and resort desk clerks",127,481.0,58,1889.0,69,1394.0
+OFFICE,"Interviewers, except eligibility and loan",105,615.0,16,,89,617.0
+OFFICE,"Library assistants, clerical",35,,7,,28,
+OFFICE,Loan interviewers and clerks,134,710.0,25,,109,722.0
+OFFICE,New accounts clerks,20,,3,,17,
+OFFICE,Order clerks,74,599.0,26,,48,
+OFFICE,"Human resources assistants, except payroll and timekeeping",50,737.0,11,,40,
+OFFICE,Receptionists and information clerks,852,575.0,72,796.0,781,742.0
+OFFICE,Reservation and transportation ticket agents and travel clerks,95,713.0,34,,61,680.0
+OFFICE,"Information and record clerks, all other",100,618.0,22,,78,616.0
+OFFICE,Cargo and freight agents,20,,12,,9,
+OFFICE,Couriers and messengers,153,752.0,134,1119.0,19,
+OFFICE,Dispatchers,250,698.0,109,1022.0,141,1022.0
+OFFICE,"Meter readers, utilities",39,,34,,4,
+OFFICE,Postal service clerks,127,927.0,76,1601.0,51,914.0
+OFFICE,Postal service mail carriers,302,954.0,187,576.0,115,403.0
+OFFICE,"Postal service mail sorters, processors, and processing machine operators",53,828.0,27,,26,
+OFFICE,"Production, planning, and expediting clerks",256,838.0,116,576.0,141,386.0
+OFFICE,"Shipping, receiving, and traffic clerks",502,591.0,354,1976.0,148,1360.0
+OFFICE,Stock clerks and order fillers,1027,520.0,651,979.0,376,733.0
+OFFICE,"Weighers, measurers, checkers, and samplers, recordkeeping",59,629.0,29,,31,
+OFFICE,Secretaries and administrative assistants,2223,687.0,124,731.0,2099,546.0
+OFFICE,Computer operators,58,751.0,25,,33,
+OFFICE,Data entry keyers,223,619.0,55,1605.0,169,542.0
+OFFICE,Word processors and typists,68,650.0,6,,62,639.0
+OFFICE,Desktop publishers,1,,1,,0,
+OFFICE,Insurance claims and policy processing clerks,259,689.0,56,768.0,203,660.0
+OFFICE,"Mail clerks and mail machine operators, except postal service",63,563.0,24,,39,
+OFFICE,"Office clerks, general",929,620.0,156,1807.0,773,1720.0
+OFFICE,"Office machine operators, except computer",31,,14,,16,
+OFFICE,Proofreaders and copy markers,2,,0,,2,
+OFFICE,Statistical assistants,15,,5,,10,
+OFFICE,"Office and administrative support workers, all other",391,745.0,93,889.0,298,771.0
+AGRICULTURAL,"First-line supervisors of farming, fishing, and forestry workers",42,,32,,10,
+AGRICULTURAL,Agricultural inspectors,12,,7,,6,
+AGRICULTURAL,Animal breeders,2,,2,,0,
+AGRICULTURAL,"Graders and sorters, agricultural products",83,486.0,32,,51,468.0
+AGRICULTURAL,Miscellaneous agricultural workers,613,445.0,511,1744.0,102,861.0
+AGRICULTURAL,Fishers and related fishing workers,11,,11,,0,
+AGRICULTURAL,Hunters and trappers,0,,0,,0,
+AGRICULTURAL,Forest and conservation workers,15,,10,,5,
+AGRICULTURAL,Logging workers,31,,31,,0,
+CONSTRUCTION,First-line supervisors of construction trades and extraction workers,560,1040.0,540,474.0,20,
+CONSTRUCTION,Boilermakers,21,,21,,0,
+CONSTRUCTION,"Brickmasons, blockmasons, and stonemasons",122,652.0,122,1148.0,0,
+CONSTRUCTION,Carpenters,802,687.0,792,1312.0,10,
+CONSTRUCTION,"Carpet, floor, and tile installers and finishers",89,637.0,89,1384.0,1,
+CONSTRUCTION,"Cement masons, concrete finishers, and terrazzo workers",44,,44,,0,
+CONSTRUCTION,Construction laborers,1181,639.0,1155,722.0,25,
+CONSTRUCTION,"Paving, surfacing, and tamping equipment operators",10,,10,,0,
+CONSTRUCTION,Pile-driver operators,2,,2,,0,
+CONSTRUCTION,Operating engineers and other construction equipment operators,324,856.0,318,2211.0,6,
+CONSTRUCTION,"Drywall installers, ceiling tile installers, and tapers",121,596.0,119,1652.0,2,
+CONSTRUCTION,Electricians,651,888.0,632,2137.0,19,
+CONSTRUCTION,Glaziers,33,,32,,0,
+CONSTRUCTION,Insulation workers,43,,41,,3,
+CONSTRUCTION,"Painters, construction and maintenance",344,585.0,330,1344.0,14,
+CONSTRUCTION,Paperhangers,0,,0,,0,
+CONSTRUCTION,"Pipelayers, plumbers, pipefitters, and steamfitters",456,863.0,455,437.0,2,
+CONSTRUCTION,Plasterers and stucco masons,20,,19,,1,
+CONSTRUCTION,Reinforcing iron and rebar workers,9,,9,,0,
+CONSTRUCTION,Roofers,171,584.0,170,467.0,2,
+CONSTRUCTION,Sheet metal workers,106,766.0,100,895.0,6,
+CONSTRUCTION,Structural iron and steel workers,54,869.0,52,1882.0,2,
+CONSTRUCTION,Solar photovoltaic installers,8,,8,,0,
+CONSTRUCTION,"Helpers, construction trades",47,,47,,0,
+CONSTRUCTION,Construction and building inspectors,67,939.0,58,1008.0,9,
+CONSTRUCTION,Elevator installers and repairers,23,,23,,0,
+CONSTRUCTION,Fence erectors,33,,33,,0,
+CONSTRUCTION,Hazardous materials removal workers,39,,35,,5,
+CONSTRUCTION,Highway maintenance workers,91,754.0,91,1380.0,0,
+CONSTRUCTION,Rail-track laying and maintenance equipment operators,9,,9,,0,
+CONSTRUCTION,Septic tank servicers and sewer pipe cleaners,8,,8,,0,
+CONSTRUCTION,Miscellaneous construction and related workers,25,,23,,2,
+CONSTRUCTION,"Derrick, rotary drill, and service unit operators, oil, gas, and mining",28,,27,,1,
+CONSTRUCTION,"Earth drillers, except oil and gas",30,,30,,0,
+CONSTRUCTION,"Explosives workers, ordnance handling experts, and blasters",5,,5,,0,
+CONSTRUCTION,Mining machine operators,68,1106.0,65,1965.0,2,
+CONSTRUCTION,"Roof bolters, mining",3,,3,,0,
+CONSTRUCTION,"Roustabouts, oil and gas",7,,7,,0,
+CONSTRUCTION,Helpers--extraction workers,6,,6,,0,
+CONSTRUCTION,Other extraction workers,61,900.0,58,1485.0,3,
+MAINTENANCE,"First-line supervisors of mechanics, installers, and repairers",270,1032.0,252,2082.0,18,
+MAINTENANCE,"Computer, automated teller, and office machine repairers",194,856.0,166,600.0,28,
+MAINTENANCE,Radio and telecommunications equipment installers and repairers,139,862.0,126,1822.0,13,
+MAINTENANCE,Avionics technicians,4,,4,,0,
+MAINTENANCE,"Electric motor, power tool, and related repairers",22,,20,,1,
+MAINTENANCE,"Electrical and electronics installers and repairers, transportation equipment",2,,2,,0,
+MAINTENANCE,"Electrical and electronics repairers, industrial and utility",18,,17,,0,
+MAINTENANCE,"Electronic equipment installers and repairers, motor vehicles",17,,17,,0,
+MAINTENANCE,Electronic home entertainment equipment installers and repairers,30,,28,,2,
+MAINTENANCE,Security and fire alarm systems installers,67,911.0,65,818.0,2,
+MAINTENANCE,Aircraft mechanics and service technicians,133,1025.0,125,1390.0,7,
+MAINTENANCE,Automotive body and related repairers,120,846.0,118,993.0,2,
+MAINTENANCE,Automotive glass installers and repairers,21,,20,,1,
+MAINTENANCE,Automotive service technicians and mechanics,710,722.0,694,1767.0,16,
+MAINTENANCE,Bus and truck mechanics and diesel engine specialists,327,831.0,327,2168.0,0,
+MAINTENANCE,Heavy vehicle and mobile equipment service technicians and mechanics,206,928.0,206,2198.0,0,
+MAINTENANCE,Small engine mechanics,39,,39,,0,
+MAINTENANCE,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",66,592.0,65,1961.0,1,
+MAINTENANCE,Control and valve installers and repairers,23,,23,,0,
+MAINTENANCE,"Heating, air conditioning, and refrigeration mechanics and installers",341,806.0,337,408.0,4,
+MAINTENANCE,Home appliance repairers,36,,36,,0,
+MAINTENANCE,Industrial and refractory machinery mechanics,394,895.0,383,1260.0,11,
+MAINTENANCE,"Maintenance and repair workers, general",469,773.0,459,908.0,10,
+MAINTENANCE,"Maintenance workers, machinery",31,,30,,1,
+MAINTENANCE,Millwrights,49,,48,,1,
+MAINTENANCE,Electrical power-line installers and repairers,113,1105.0,112,1022.0,0,
+MAINTENANCE,Telecommunications line installers and repairers,157,882.0,148,1503.0,9,
+MAINTENANCE,Precision instrument and equipment repairers,64,996.0,60,1068.0,4,
+MAINTENANCE,Wind turbine service technicians,3,,3,,0,
+MAINTENANCE,"Coin, vending, and amusement machine servicers and repairers",38,,34,,4,
+MAINTENANCE,Commercial divers,1,,1,,0,
+MAINTENANCE,Locksmiths and safe repairers,12,,12,,0,
+MAINTENANCE,Manufactured building and mobile home installers,4,,4,,1,
+MAINTENANCE,Riggers,7,,7,,0,
+MAINTENANCE,Signal and track switch repairers,9,,9,,0,
+MAINTENANCE,"Helpers--installation, maintenance, and repair workers",17,,17,,0,
+MAINTENANCE,"Other installation, maintenance, and repair workers",150,792.0,144,1533.0,6,
+PRODUCTION,First-line supervisors of production and operating workers,783,875.0,650,861.0,133,600.0
+PRODUCTION,"Aircraft structure, surfaces, rigging, and systems assemblers",15,,11,,4,
+PRODUCTION,"Electrical, electronics, and electromechanical assemblers",123,554.0,59,1970.0,64,975.0
+PRODUCTION,Engine and other machine assemblers,14,,12,,2,
+PRODUCTION,Structural metal fabricators and fitters,31,,28,,3,
+PRODUCTION,Miscellaneous assemblers and fabricators,950,581.0,573,2026.0,377,937.0
+PRODUCTION,Bakers,150,505.0,69,1771.0,80,682.0
+PRODUCTION,"Butchers and other meat, poultry, and fish processing workers",247,542.0,187,1334.0,60,1217.0
+PRODUCTION,"Food and tobacco roasting, baking, and drying machine operators and tenders",9,,7,,1,
+PRODUCTION,Food batchmakers,79,500.0,25,,54,489.0
+PRODUCTION,Food cooking machine operators and tenders,7,,5,,2,
+PRODUCTION,"Food processing workers, all other",132,594.0,82,835.0,50,461.0
+PRODUCTION,Computer control programmers and operators,83,833.0,81,435.0,2,
+PRODUCTION,"Extruding and drawing machine setters, operators, and tenders, metal and plastic",8,,7,,1,
+PRODUCTION,"Forging machine setters, operators, and tenders, metal and plastic",6,,6,,0,
+PRODUCTION,"Rolling machine setters, operators, and tenders, metal and plastic",15,,12,,3,
+PRODUCTION,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",78,633.0,62,773.0,15,
+PRODUCTION,"Drilling and boring machine tool setters, operators, and tenders, metal and plastic",5,,5,,1,
+PRODUCTION,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",41,,39,,3,
+PRODUCTION,"Lathe and turning machine tool setters, operators, and tenders, metal and plastic",12,,11,,1,
+PRODUCTION,"Milling and planing machine setters, operators, and tenders, metal and plastic",1,,1,,0,
+PRODUCTION,Machinists,338,834.0,320,592.0,17,
+PRODUCTION,"Metal furnace operators, tenders, pourers, and casters",29,,28,,1,
+PRODUCTION,"Model makers and patternmakers, metal and plastic",6,,3,,3,
+PRODUCTION,"Molders and molding machine setters, operators, and tenders, metal and plastic",47,,39,,9,
+PRODUCTION,"Multiple machine tool setters, operators, and tenders, metal and plastic",1,,1,,0,
+PRODUCTION,Tool and die makers,49,,49,,0,
+PRODUCTION,"Welding, soldering, and brazing workers",568,760.0,545,1751.0,23,
+PRODUCTION,"Heat treating equipment setters, operators, and tenders, metal and plastic",4,,4,,0,
+PRODUCTION,"Layout workers, metal and plastic",4,,4,,1,
+PRODUCTION,"Plating and coating machine setters, operators, and tenders, metal and plastic",24,,24,,0,
+PRODUCTION,"Tool grinders, filers, and sharpeners",7,,7,,0,
+PRODUCTION,"Metal workers and plastic workers, all other",351,639.0,278,2028.0,72,973.0
+PRODUCTION,Prepress technicians and workers,14,,12,,2,
+PRODUCTION,Printing press operators,160,707.0,134,662.0,26,
+PRODUCTION,Print binding and finishing workers,16,,9,,6,
+PRODUCTION,Laundry and dry-cleaning workers,133,466.0,53,2083.0,80,1047.0
+PRODUCTION,"Pressers, textile, garment, and related materials",21,,9,,12,
+PRODUCTION,Sewing machine operators,147,493.0,42,,105,476.0
+PRODUCTION,Shoe and leather workers and repairers,5,,4,,1,
+PRODUCTION,Shoe machine operators and tenders,1,,0,,1,
+PRODUCTION,"Tailors, dressmakers, and sewers",37,,9,,27,
+PRODUCTION,Textile bleaching and dyeing machine operators and tenders,2,,2,,0,
+PRODUCTION,"Textile cutting machine setters, operators, and tenders",9,,7,,2,
+PRODUCTION,"Textile knitting and weaving machine setters, operators, and tenders",8,,3,,4,
+PRODUCTION,"Textile winding, twisting, and drawing out machine setters, operators, and tenders",7,,5,,2,
+PRODUCTION,"Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",0,,0,,0,
+PRODUCTION,Fabric and apparel patternmakers,4,,3,,1,
+PRODUCTION,Upholsterers,29,,21,,7,
+PRODUCTION,"Textile, apparel, and furnishings workers, all other",16,,12,,4,
+PRODUCTION,Cabinetmakers and bench carpenters,40,,38,,2,
+PRODUCTION,Furniture finishers,6,,6,,0,
+PRODUCTION,"Model makers and patternmakers, wood",0,,0,,0,
+PRODUCTION,"Sawing machine setters, operators, and tenders, wood",26,,22,,4,
+PRODUCTION,"Woodworking machine setters, operators, and tenders, except sawing",23,,21,,1,
+PRODUCTION,"Woodworkers, all other",17,,14,,3,
+PRODUCTION,"Power plant operators, distributors, and dispatchers",35,,34,,1,
+PRODUCTION,Stationary engineers and boiler operators,84,996.0,81,1901.0,3,
+PRODUCTION,Water and wastewater treatment plant and system operators,82,880.0,79,945.0,3,
+PRODUCTION,Miscellaneous plant and system operators,35,,33,,3,
+PRODUCTION,"Chemical processing machine setters, operators, and tenders",62,1052.0,57,1330.0,5,
+PRODUCTION,"Crushing, grinding, polishing, mixing, and blending workers",82,652.0,75,1252.0,7,
+PRODUCTION,Cutting workers,51,685.0,41,,9,
+PRODUCTION,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",31,,25,,6,
+PRODUCTION,"Furnace, kiln, oven, drier, and kettle operators and tenders",6,,5,,0,
+PRODUCTION,"Inspectors, testers, sorters, samplers, and weighers",701,710.0,440,1971.0,260,714.0
+PRODUCTION,Jewelers and precious stone and metal workers,19,,11,,7,
+PRODUCTION,"Medical, dental, and ophthalmic laboratory technicians",86,648.0,44,,42,
+PRODUCTION,Packaging and filling machine operators and tenders,239,518.0,118,1155.0,120,452.0
+PRODUCTION,Painting workers,129,708.0,110,620.0,18,
+PRODUCTION,Photographic process workers and processing machine operators,26,,12,,14,
+PRODUCTION,Semiconductor processors,1,,1,,0,
+PRODUCTION,Adhesive bonding machine operators and tenders,9,,5,,4,
+PRODUCTION,"Cleaning, washing, and metal pickling equipment operators and tenders",4,,2,,1,
+PRODUCTION,Cooling and freezing equipment operators and tenders,4,,3,,0,
+PRODUCTION,Etchers and engravers,12,,8,,4,
+PRODUCTION,"Molders, shapers, and casters, except metal and plastic",14,,12,,2,
+PRODUCTION,"Paper goods machine setters, operators, and tenders",27,,22,,5,
+PRODUCTION,Tire builders,8,,8,,0,
+PRODUCTION,Helpers--production workers,24,,18,,7,
+PRODUCTION,"Production workers, all other",846,625.0,643,1387.0,203,645.0
+TRANSPORTATION,Supervisors of transportation and material moving workers,186,894.0,153,1820.0,33,
+TRANSPORTATION,Aircraft pilots and flight engineers,114,1735.0,104,1538.0,9,
+TRANSPORTATION,Air traffic controllers and airfield operations specialists,32,,24,,8,
+TRANSPORTATION,Flight attendants,63,846.0,20,,43,
+TRANSPORTATION,"Ambulance drivers and attendants, except emergency medical technicians",18,,14,,4,
+TRANSPORTATION,Bus drivers,323,615.0,184,1719.0,138,1205.0
+TRANSPORTATION,Driver/sales workers and truck drivers,2687,747.0,2582,1154.0,105,575.0
+TRANSPORTATION,Taxi drivers and chauffeurs,253,585.0,216,1270.0,38,
+TRANSPORTATION,"Motor vehicle operators, all other",21,,18,,3,
+TRANSPORTATION,Locomotive engineers and operators,44,,42,,2,
+TRANSPORTATION,"Railroad brake, signal, and switch operators",5,,5,,0,
+TRANSPORTATION,Railroad conductors and yardmasters,55,1117.0,52,485.0,4,
+TRANSPORTATION,"Subway, streetcar, and other rail transportation workers",15,,12,,3,
+TRANSPORTATION,Sailors and marine oilers,10,,9,,0,
+TRANSPORTATION,Ship and boat captains and operators,29,,28,,1,
+TRANSPORTATION,Ship engineers,5,,4,,1,
+TRANSPORTATION,Bridge and lock tenders,4,,4,,0,
+TRANSPORTATION,Parking lot attendants,57,492.0,49,,8,
+TRANSPORTATION,Automotive and watercraft service attendants,63,452.0,58,1310.0,5,
+TRANSPORTATION,Transportation inspectors,21,,14,,7,
+TRANSPORTATION,"Transportation attendants, except flight attendants",17,,9,,8,
+TRANSPORTATION,Other transportation workers,39,,35,,4,
+TRANSPORTATION,Conveyor operators and tenders,7,,7,,0,
+TRANSPORTATION,Crane and tower operators,75,988.0,71,527.0,4,
+TRANSPORTATION,"Dredge, excavating, and loading machine operators",25,,25,,0,
+TRANSPORTATION,Hoist and winch operators,5,,5,,0,
+TRANSPORTATION,Industrial truck and tractor operators,579,609.0,541,2071.0,37,
+TRANSPORTATION,Cleaners of vehicles and equipment,222,485.0,200,510.0,22,
+TRANSPORTATION,"Laborers and freight, stock, and material movers, hand",1433,526.0,1214,1977.0,219,592.0
+TRANSPORTATION,Machine feeders and offbearers,30,,21,,9,
+TRANSPORTATION,"Packers and packagers, hand",385,438.0,158,1983.0,227,997.0
+TRANSPORTATION,Pumping station operators,18,,17,,1,
+TRANSPORTATION,Refuse and recyclable material collectors,72,501.0,66,645.0,6,
+TRANSPORTATION,Mine shuttle car operators,0,,0,,0,
+TRANSPORTATION,"Tank car, truck, and ship loaders",6,,6,,0,
+TRANSPORTATION,"Material moving workers, all other",37,,32,,5,
