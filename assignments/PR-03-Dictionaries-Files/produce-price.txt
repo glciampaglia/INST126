@@ -1,0 +1,4 @@
+grapes,3.99
+apples,2.45
+kiwi,4.00
+bananas,1.59

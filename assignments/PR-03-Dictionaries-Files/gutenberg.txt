@@ -1,0 +1,20 @@
+id: fosterRoomView
+author: E. M. Foster
+title: A Room with View
+text: "The Signora had no business to do it," said Miss Bartlett, "no business at all. She promised us south rooms with a view close together, instead of which here are north rooms, looking into a courtyard, and a long way apart. Oh, Lucy!"
+---
+id: alcottLittleWomen
+author: Louisa May Alcott
+title: Little Women
+text: "Christmas won't be Christmas without any presents," grumbled Jo, lying on the rug. "It's so dreadful to be poor!" sighed Meg, looking down at her old dress. "I don't think it's fair for some girls to have plenty of pretty things, and other girls nothing at all," added little Amy, with an injured sniff.
+---
+id: melvilleMobyDick
+author: Herman Melville
+title: Moby Dick
+text: Call me Ishmael. Some years ago--never mind how long precisely--having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation.
+---
+id: dumasTwentyYears
+author: Alexandre Dumas
+title: Twenty Years After
+text: In a splendid chamber of the Palais Royal, formerly styled the Palais Cardinal, a man was sitting in deep reverie, his head supported on his hands, leaning over a gilt and inlaid table which was covered with letters and papers. 
+---
